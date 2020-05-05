@@ -83,30 +83,15 @@ h1,h2,h3 {
   color: white;
   padding-top: 56px;
 }
+.my_jumbo img {
+  height: 200px;
+}
 /* END JUMBO */
 /* PORTFOLIO */
-[class*="my_portfolio-box-"]{
-  height: 200px;
-  margin-bottom: 30px;
-  border-radius: 10px;
-}
-.my_portfolio-box-1 {
-  background-color: #ba4b63;
-}
-.my_portfolio-box-2 {
-  background-color: #1ea4b6;
-}
-.my_portfolio-box-3 {
-  background-color: #140f0f;
-}
-.my_portfolio-box-4 {
-  background-color: #1c83c1;
-}
-.my_portfolio-box-5 {
-  background-color: #0e38b5;
-}
-.my_portfolio-box-6 {
-  background-color:#ccb2a3;
+#showcase img {
+  height: 250px;
+  margin-bottom: 40px;
+  border-radius: 15px;
 }
 /* END PORTFOLIO */
 /* ABOUT */
